@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 
 
 
-```java
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonCheeZQ)](https://github.com/anuraghazra/github-readme-stats)
-```
-
