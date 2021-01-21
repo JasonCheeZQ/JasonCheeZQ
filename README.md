@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**JasonCheeZQ/JasonCheeZQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zhaoqi-NewBie/Zhaoqi-NewBie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JasonCheeZQ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zhaoqi-NewBie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JasonCheeZQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Zhaoqi-NewBie)](https://github.com/anuraghazra/github-readme-stats)
 
